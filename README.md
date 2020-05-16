@@ -2,5 +2,3 @@
 
 ***
 San Andreas - Juego de Rol Release se basa en el desarrollo de sistemas e implementaciones del servidor/gamemode.
-
-* En desarrollo...
