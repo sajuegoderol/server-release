@@ -2,3 +2,5 @@
 
 ***
 San Andreas - Juego de Rol Release se basa en el desarrollo de sistemas e implementaciones del servidor/gamemode.
+
+[v0.0.1 (#1420201138)](https://github.com/sajuegoderol/server-release/releases/tag/v0.0.1)
