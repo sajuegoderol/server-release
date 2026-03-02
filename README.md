@@ -1,4 +1,4 @@
-![San Andreas - Juego de Rol](https://i.ibb.co/2FzjDkn/Logo.png)
+<p align="center"><img src="https://i.ibb.co/2FzjDkn/Logo.png"></p>
 
 ***
 San Andreas - Juego de Rol Release se basa en el desarrollo de sistemas e implementaciones del servidor/gamemode.
